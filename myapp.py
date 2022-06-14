@@ -14,7 +14,7 @@ def get_data(id = None):
 
 
 
-#get_data(2)
+#get_data()
 
 def post_data():
     data = {
